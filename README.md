@@ -5,20 +5,10 @@
 
 ![Capture](https://user-images.githubusercontent.com/20041231/211718788-8d71ca8c-430a-4dbe-98f2-c66da015ac6e.JPG)
 
-## 1. Python Programming Language -1 Month
-#### Python:
-![python-logo-master-v3-TM-flattened](https://user-images.githubusercontent.com/20041231/211717885-0b1e049b-f5b3-457d-ba7a-9345ec3aa39c.png)
+## 1. Python Programming Language - ALready Know till intermediate level -> will learn new things with time
+Also learning flask with it 
 
-1. Complete Python Playlist In English: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=bPrmA1SEN2k&list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB)
 
-2. Complete Python Playlist In Hindi:   [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=MJd9d9Mpxg0&list=PLTDARY42LDV4qqiJd1Z1tShm3mp9-rP4v)
-
-3. Flask Playlist:    [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=4L_xAWDRs7w&list=PLZoTAELRMXVPBaLN3e-uoVRR9hlRFRfUc)
-
-### Final Goal Outcome:
-1. Basic To Intermediate Python With various knowledge of various Data structures like numpy,pandas,matplotlib and many more.
-2. Knowledge of performing EDA,Feature Engineering and creating visualization charts using python 
-3. Atleast Make some python projects using Frameworks such as Flask with deployment Eg: Web Scrapping Projects  
 
 ### What's New In Python 3.12.0
 https://docs.python.org/release/3.12.0/
@@ -28,14 +18,8 @@ https://docs.python.org/release/3.12.0/
 
 1. English: 7 Days Statistics Live Session : [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=11unm2hmvOQ&list=PLZoTAELRMXVMgtxAboeAx-D9qbnY94Yay)
 
-2. Statistics in ML(43 videos): [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=zRUliXuwJCQ&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
-
-3. Stats Hindi Playlist: [![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=7y3XckjaVOw&list=PLTDARY42LDV6YHSRo669_uDDGmUEmQnDJ)
-
 ### EDA
 1. EDA Live :[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
-
-2. EDA Detailed Playlist:[![YouTube](https://img.shields.io/badge/YouTube-Video-green)](https://www.youtube.com/watch?v=ioN1jcWxbv8&list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9)
 
 ### Feature Engineering
 Till feature engineering you can watch live sessoins but from here watch full video playlist
